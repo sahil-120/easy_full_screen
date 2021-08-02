@@ -1,0 +1,1 @@
+# easy_full_screen
